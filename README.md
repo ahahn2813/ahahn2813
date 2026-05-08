@@ -30,7 +30,7 @@ During my PhD, I worked as a **Research Aide in the MCS (Mathematics and Compute
 | Category | Technologies |
 |----------|---------------|
 | **Languages** | Python, R, LaTeX, Java, Julia |
-| **Data Science & ML** | pandas, scikit-learn,JAX, Equinox, Jupyter Notebooks |
+| **Data Science & ML** | pandas, scikit-learn, JAX, Equinox, Jupyter Notebooks |
 | **Specializations** | Machine Learning, Data Analysis, Statistical Modeling, Mathematical Computing |
 | **Strengths** | Problem-solving, Mathematical reasoning, Theoretical analysis, Research |
 
@@ -38,7 +38,7 @@ During my PhD, I worked as a **Research Aide in the MCS (Mathematics and Compute
 
 ## 📌 Featured Projects
 
-### [ContLearn](https://github.com/krm9c/ContLearn) — JAX-based Continual Machine Learning
+### [ContLearn](https://github.com/krm9c/ContLearn)
 Research work completed at Argonne National Lab exploring a novel approach to continual learning. We explore learning both weights and architecture of neural networks simultaneously at each new learning task. This project bridges theoretical machine learning with practical implementation in JAX.
 
 ### [Antoines_Necklace_Visualization](https://github.com/ahahn2813/Antoines_Necklace_Visualization)
