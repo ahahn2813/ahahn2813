@@ -2,7 +2,7 @@
 
 **PhD in Mathematics | Master's in Data Science (graduating Aug 2026) | Adjunct Professor of Mathematics**
 
-I'm passionate about leveraging mathematics, machine learning, and data science to solve complex problems—whether in education, business, or cutting-edge research. With a strong theoretical foundation in geometric function theory and hands-on experience in continual machine learning research, I'm actively seeking a **full-time Data Scientist or Machine Learning Engineer position**.
+I'm passionate about leveraging mathematics, machine learning, and data science to solve complex problems, whether in education, business, or cutting-edge research. With a strong theoretical foundation in geometric function theory and hands-on experience in continual machine learning research, I'm actively seeking a **full-time Data Scientist or Machine Learning Engineer position**.
 
 ---
 
