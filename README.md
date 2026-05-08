@@ -39,16 +39,16 @@ During my PhD, I worked as a **Research Aide in the MCS (Mathematics and Compute
 ## 📌 Featured Projects
 
 ### [ContLearn](https://github.com/krm9c/ContLearn) — JAX-based Continual Machine Learning
-Research work completed at Argonne National Lab exploring universal approaches to continual learning. This project bridges theoretical machine learning with practical implementation in JAX.
+Research work completed at Argonne National Lab exploring a novel approach to continual learning. We explore learning both weights and architecture of neural networks simultaneously at each new learning task. This project bridges theoretical machine learning with practical implementation in JAX.
 
 ### [Antoines_Necklace_Visualization](https://github.com/ahahn2813/Antoines_Necklace_Visualization)
-Mathematical visualization project exploring Antoine's Necklace and related geometric structures. Combines Python programming with mathematical visualization to make complex topology accessible.
+Mathematical visualization project exploring Antoine's Necklace and related geometric structures. Combines Python programming with mathematical visualization to make complex topology accessible, highlights NumPy and Plotly.
 
 ### [CourseData-Analysis](https://github.com/ahahn2813/CourseData-Analysis)
-Data-driven analysis of student metrics in college introductory mathematics courses. Demonstrates my passion for improving educational outcomes through data science.
+Data-driven analysis of student metrics in my college introductory mathematics courses. Demonstrates my passion for improving educational outcomes through data science.
 
 ### [PortuguesePrediction_Project](https://github.com/ahahn2813/PortuguesePrediction_Project)
-Predictive modeling project applying machine learning techniques to real-world classification problems.
+Predictive modeling project applying machine learning techniques to real-world regression problems. A well documented Jupyter notebook and executive summary are provided.
 
 ---
 
