@@ -70,12 +70,3 @@ I'm open to **collaboration, freelance opportunities, and full-time positions**.
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=google)](https://sites.google.com/view/allyson-hahn/home)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/ahahn2813)
 
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahahn2813&layout=compact)
-
----
-
-*"Mathematics is the language of the universe, and data science is how we listen to it."* 🌌📈
