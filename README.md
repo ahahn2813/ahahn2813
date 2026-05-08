@@ -1,4 +1,4 @@
-# Hi, I'm Allyson Hahn 👋
+# Hi, I'm Allyson 👋
 
 **PhD in Mathematics | Master's in Data Science (graduating Aug 2026) | Adjunct Professor of Mathematics**
 
