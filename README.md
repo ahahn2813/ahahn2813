@@ -48,7 +48,7 @@ Mathematical visualization project exploring Antoine's Necklace and related geom
 Data-driven analysis of student metrics in my college introductory mathematics courses. Demonstrates my passion for improving educational outcomes through data science.
 
 ### [PortuguesePrediction_Project](https://github.com/ahahn2813/PortuguesePrediction_Project)
-Predictive modeling project applying machine learning techniques to real-world regression problems. A well documented Jupyter notebook and executive summary are provided.
+Predictive modeling project applying machine learning techniques (Gradient boosting, SVM, LASSO regression) to real-world regression problems. A well documented Jupyter notebook and executive summary are provided. This is a private repo as it was a course project. Please reach out for access to the repo. 
 
 ---
 
