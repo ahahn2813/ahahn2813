@@ -45,7 +45,7 @@ Research work completed at Argonne National Lab exploring a novel approach to co
 Mathematical visualization project exploring Antoine's Necklace and related geometric structures. Combines Python programming with mathematical visualization to make complex topology accessible, highlights NumPy and Plotly.
 
 ### [CourseData-Analysis](https://github.com/ahahn2813/CourseData-Analysis)
-Data-driven analysis of student metrics in my college introductory mathematics courses. Demonstrates my passion for improving educational outcomes through data science and highlights high-level data cleaning and analysis skills using pandas and numpy.
+Data-driven analysis of student metrics in my college introductory mathematics courses. Demonstrates my passion for improving educational outcomes through data science and highlights high-level data cleaning and analysis skills using pandas and NumPy.
 
 ### [PortuguesePrediction_Project](https://github.com/ahahn2813/PortuguesePrediction_Project)
 Predictive modeling project applying machine learning techniques (Gradient boosting, SVM, LASSO regression) to real-world regression problems. A well documented Jupyter notebook and executive summary are provided. This is a private repo as it was a course project. Please reach out for access to the repo. 
