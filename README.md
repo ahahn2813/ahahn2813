@@ -47,11 +47,11 @@ Mathematical visualization project exploring Antoine's Necklace and related geom
 ### [iReadyETL](https://github.com/ahahn2813/iReadyETL)
 An ETL tool designed to transform iReady diagnostic CSV exports into comprehensive, multi-term Excel reports for elementary school teachers. Automates data merging, growth tracking, and visual analytics—reducing hours of manual work to seconds. Features a user-friendly desktop GUI, automatic growth calculations, color-coded visualizations, and 100% local processing for FERPA compliance.
 
+### [PortuguesePrediction_Project](https://github.com/ahahn2813/PortuguesePrediction_Project)
+Predictive modeling project applying machine learning techniques (Gradient boosting, SVM, LASSO regression) to real-world regression problems. A well documented Jupyter notebook and executive summary are provided. This is a private repo as it was created for a course project. Please reach out for access to the repo. 
+
 ### [CourseData-Analysis](https://github.com/ahahn2813/CourseData-Analysis)
 Data-driven analysis of student metrics in my college introductory mathematics courses. Demonstrates my passion for improving educational outcomes through data science and highlights high-level data cleaning and analysis skills using pandas and NumPy.
-
-### [PortuguesePrediction_Project](https://github.com/ahahn2813/PortuguesePrediction_Project)
-Predictive modeling project applying machine learning techniques (Gradient boosting, SVM, LASSO regression) to real-world regression problems. A well documented Jupyter notebook and executive summary are provided. This is a private repo as it was a course project. Please reach out for access to the repo. 
 
 ---
 
