@@ -29,7 +29,7 @@ During my PhD, I worked as a **Research Aide in the MCS (Mathematics and Compute
 
 | Category | Technologies |
 |----------|---------------|
-| **Languages** | Python, R, LaTeX, Java, Julia |
+| **Languages** | Python, R, LaTeX, SQL, Java, Julia |
 | **Data Science & ML** | pandas, scikit-learn, JAX, Equinox, Jupyter Notebooks |
 | **Specializations** | Machine Learning, Data Analysis, Statistical Modeling, Mathematical Computing |
 | **Strengths** | Problem-solving, Mathematical reasoning, Theoretical analysis, Research |
