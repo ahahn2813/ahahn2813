@@ -42,7 +42,7 @@ During my PhD, I worked as a **Research Aide in the MCS (Mathematics and Compute
 Research work completed at Argonne National Lab discovering a novel approach to continual learning. We explore learning both weights and architecture of neural networks simultaneously at each new learning task. This project bridges theoretical machine learning with practical implementation in JAX.
 
 ### [Antoines_Necklace_Visualization](https://github.com/ahahn2813/Antoines_Necklace_Visualization)
-Mathematical visualization project exploring Antoine's Necklace and related geometric structures. Combines Python programming with mathematical visualization to make complex topology accessible, highlights NumPy and Plotly.
+Mathematical visualization project exploring Antoine's Necklace and related geometric structures. Combines Python programming with mathematical visualization to make complex topology accessible, highlights NumPy and Plotly. This project showcases not only high-level knowledge and application of mathematical transformations, but also solid understanding object-oriented programming skills in Python by constructing a class from scratch.
 
 ### [iReadyETL](https://github.com/ahahn2813/iReadyETL)
 An ETL tool designed to transform iReady diagnostic CSV exports into comprehensive, multi-term Excel reports for elementary school teachers. Automates data merging, growth tracking, and visual analytics—reducing hours of manual work to seconds. Features a user-friendly desktop GUI, automatic growth calculations, color-coded visualizations, and 100% local processing for FERPA compliance.
